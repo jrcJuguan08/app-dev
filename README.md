@@ -1,2 +1,6 @@
-# app-dev
-My first repository
+# My favorite series
+**Steins; Gate**
+*Steins;Gate is an adaptation of the visual novel of the same name. It is set in 2010 in Akihabara, Tokyo, and follows Rintaro Okabe, a self-proclaimed "mad scientist", who runs the "Future Gadget Laboratory" in an apartment together with his friends Mayuri Shiina and Itaru "Daru" Hashida.*
+
+1. Steins;Gate is a Japanese anime television series created by the animation studio White Fox based on 5pb. and Nitroplus's 2009 visual novel of the same name. The series aired for 24 episodes, from April to September 2011. It is set in 2010 and follows Rintaro Okabe, who together with his friends accidentally discovers a method of time travel through which they can send text messages to the past, thereby changing the present.
+2. It is part of the Science Adventure franchise along with Chaos;Head and Robotics;Notes. The series was directed by Hiroshi Hamasaki and Takuya Satō, and written by Jukki Hanada, with character design and animation direction by Kyuuta Sakai, and music by Takeshi Abo. It was simulcast in North and South America, Africa, the Middle East, and parts of Europe by Crunchyroll and the United Kingdom by Anime on Demand. A 25th OVA episode was later included with the home media releases; these releases were handled by Funimation in North America and by Manga Entertainment in the United Kingdom.
